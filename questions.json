@@ -1,0 +1,242 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "What problem did the friends face when they landed?",
+    "options": [
+      "They got lost",
+      "Their food ran out",
+      "Their spaceship's engine stopped working",
+      "They couldn't breathe the air"
+    ],
+    "correct": 2,
+    "explanation": "Right after they landed, the story tells us that their spaceship's engine stopped working. This was the main problem they had to solve."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Who suggested looking for a special crystal?",
+    "options": [
+      "Max",
+      "Lily",
+      "Zoe",
+      "Sam"
+    ],
+    "correct": 2,
+    "explanation": "The story says, \"Zoe, who loved to invent things, suggested they search for a special crystal that could power the spaceship.\""
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "Who helped the friends find the crystal?",
+    "options": [
+      "Sparky",
+      "Zino",
+      "Max",
+      "Lily"
+    ],
+    "correct": 1,
+    "explanation": "Zino was the friendly alien they met on Planet Zora. He led them to the glowing cave where the crystal grew."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "How do you spell the robot dog's name in the story?",
+    "options": [
+      "Sparky",
+      "Sparkey",
+      "Sparkie",
+      "Sparkee"
+    ],
+    "correct": 0,
+    "explanation": "In the story, the robot dog's name is spelt \"Sparky.\" Names often have specific spellings, so it's important to pay attention to how they're written in the story."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "How did the friends feel at the end of the story?",
+    "options": [
+      "Sad and scared",
+      "Angry and frustrated",
+      "Happy and excited",
+      "Bored and tired"
+    ],
+    "correct": 2,
+    "explanation": "The last sentence tells us, \"They were happy and excited to come back another day.\" This shows they enjoyed their adventure and wanted to return."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "What is the main setting of this story?",
+    "options": [
+      "A school",
+      "A forest",
+      "A planet",
+      "The moon"
+    ],
+    "correct": 2,
+    "explanation": "The main setting of the story is Planet Zora. The setting is where the story takes place, and most of the action in this story happens on this new planet they visit."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "What kind of character is Sparky?",
+    "options": [
+      "A human",
+      "An alien",
+      "A robot cat",
+      "A robot dog"
+    ],
+    "correct": 3,
+    "explanation": "Sparky is described as a robot dog in the story. This makes Sparky a unique character - not a regular dog, but a robot one!"
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "What is the main problem in the story?",
+    "options": [
+      "They can't find food",
+      "The spaceship's engine stops working",
+      "They get lost",
+      "They fight with each other"
+    ],
+    "correct": 1,
+    "explanation": "The main problem, or conflict, in the story, is that their spaceship's engine stops working after they land on Planet Zora. This creates the challenge they need to overcome."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "What part of the plot is it when the friends land on Planet Zora?",
+    "options": [
+      "The ending",
+      "The problem",
+      "The beginning",
+      "The solution"
+    ],
+    "correct": 2,
+    "explanation": "When the friends land on Planet Zora, it's the beginning of the story. This is where the adventure starts and we learn about the setting."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "How do the characters work together to solve the problem?",
+    "options": [
+      "They argue with each other",
+      "They give up and wait for help",
+      "They split up and look for different solutions",
+      "They carry the crystal back together"
+    ],
+    "correct": 3,
+    "explanation": "The story shows the characters working as a team when they all help carry the heavy crystal back to the spaceship. This shows cooperation among the characters."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Choose the correct spelling:",
+    "options": [
+      "Charactar",
+      "Character",
+      "Charaacter",
+      "Cherachter"
+    ],
+    "correct": 1,
+    "explanation": "The correct spelling is C-H-A-R-A-C-T-E-R. It means the qualities that make somebody/something different from other people or things."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Identify the verb in this sentence: “Sparky the robot dog helped Max fix the engine.”",
+    "options": [
+      "Sparky",
+      "Robot",
+      "helped",
+      "The"
+    ],
+    "correct": 2,
+    "explanation": "A verb is a word that shows action. In this sentence, \"helped\" is the action that Sparky the robot dog is doing. He is helping Max fix the engine, so \"helped\" is the verb."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Identify the correct pair for this sentence: “The friendly waiter served the customers politely.”",
+    "options": [
+      "Waiter: adverb",
+      "Customers: adjective",
+      "Politely: adverb",
+      "None of the above"
+    ],
+    "correct": 2,
+    "explanation": "\"Politely\" is an adverb that describes how the waiter served the customers (the verb), while \"friendly\" is an adjective that describes the noun \"waiter.\""
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Choose the correct spelling.",
+    "options": [
+      "Environment",
+      "Enviroment",
+      "Envirament",
+      "Enviroonment"
+    ],
+    "correct": 0,
+    "explanation": "The correct spelling is E-N-V-I-R-O-N-M-E-N-T. It is the conditions in which you live, work, etc."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Identify the pronoun in the given sentence: “They were happy and excited to come back another day.”",
+    "options": [
+      "Were",
+      "And",
+      "To",
+      "They"
+    ],
+    "correct": 3,
+    "explanation": "A pronoun is a word that takes the place of a noun (a person, place, or thing). In this sentence, \"They\" is the pronoun because it is used instead of naming the people who were happy and excited. It stands in for the people being talked about."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "What is the plot of a story?",
+    "options": [
+      "The place where the story happens",
+      "The main character in the story",
+      "The events that happen in the story",
+      "The problem in the story"
+    ],
+    "correct": 2,
+    "explanation": "The plot is like the journey of the story. It's all the things that happen from the beginning to the end. Think of it as the adventure the characters go on."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Which of these is part of a story's setting?",
+    "options": [
+      "The main character's name",
+      "The time and place of the story",
+      "The problem in the story",
+      "The lesson learned in the story"
+    ],
+    "correct": 1,
+    "explanation": "The setting is where and when a story happens. It could be a magical forest, a school, or even another planet! The setting helps us imagine the world of the story."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "What are the characters in a story?",
+    "options": [
+      "The events that happen",
+      "The place where the story occurs",
+      "The people, animals, or creatures in the story",
+      "The things the characters"
+    ],
+    "correct": 2,
+    "explanation": "Characters are who the story is about. They can be people, talking animals, robots, or even imaginary creatures. They're the ones doing things in the story."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "What is the problem in a story also called?",
+    "options": [
+      "The setting",
+      "The character",
+      "The solution",
+      "The conflict"
+    ],
+    "correct": 3,
+    "explanation": "The problem in a story is often called the conflict. It's the big challenge that the characters face and need to solve. Without a problem, the story wouldn't be very exciting!"
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "What is the solution in a story?",
+    "options": [
+      "How the problem is fixed",
+      "Where the story takes place",
+      "The first event in the story",
+      "The main character's best friend"
+    ],
+    "correct": 0,
+    "explanation": "The solution is how the characters fix the big problem or challenge in the story. It usually comes near the end and makes things better for the characters."
+  }
+]
